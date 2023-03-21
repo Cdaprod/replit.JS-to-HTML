@@ -1,0 +1,58 @@
+{
+  "navbar": {
+    "title": "David's Portfolio",
+    "links": [
+      {
+        "text": "About",
+        "href": "#about"
+      },
+      {
+        "text": "Skills",
+        "href": "#skills"
+      },
+      {
+        "text": "Projects",
+        "href": "#projects"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "About",
+      "content": "Hi there! My name is David, a dad to triplets with plenty of talents and skillz. I'm using this time to educate myself on computer sciences so that I can make a career change. I'm really interested in computers and have been building up my skills by creating a homelab with security layers, hypervisors, Raspberry Pi's, Linux devices, and virtual machines."
+    },
+    {
+      "id": "skills",
+      "title": "Skills",
+      "content": "<ul><li>HTML, CSS, JavaScript</li><li>Node.js, React</li><li>Linux command-line</li><li>C++ and Python</li><li>Internet protocols and bug testing</li></ul>"
+    },
+    {
+      "id": "projects",
+      "title": "Projects",
+      "cards": [
+        {
+          "title": "Project 1",
+          "subtitle": "Subtitle 1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse euismod, tortor eget blandit interdum, lorem elit varius sapien, nec molestie velit est nec sapien.",
+          "image": "https://via.placeholder.com/500x250",
+          "imageAlt": "Placeholder image"
+        },
+        {
+          "title": "Project 2",
+          "subtitle": "Subtitle 2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse euismod, tortor eget blandit interdum, lorem elit varius sapien, nec molestie velit est nec sapien.",
+          "image": "https://via.placeholder.com/500x250",
+          "imageAlt": "Placeholder image"
+        },
+        {
+          "title": "Project 3",
+          "subtitle": "Subtitle 3",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse euismod, tortor eget blandit interdum, lorem elit varius sapien, nec molestie velit est nec sapien.",
+          "image": "https://via.placeholder.com/500x250",
+          "imageAlt": "Placeholder image"
+        }
+      ]
+    }
+  ]
+}
